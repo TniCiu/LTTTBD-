@@ -18,7 +18,7 @@ class DienThoai {
     this._trangThai = trangThai;
   }
 
-  // Getter
+  //Getter
   String get maDT => _maDT;
   String get ten => _ten;
   String get hSX => _hSX;
