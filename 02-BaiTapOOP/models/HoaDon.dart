@@ -12,7 +12,7 @@ class HoaDon {
   HoaDon(this._maHD, this._ngayBan, this._dienThoai, this._soLuongMua,
       this._giaBanThucTe, this._tenKH, this._sdtKH);
 
-  // Getter
+  //Getter
   String get maHD => _maHD;
   DateTime get ngayBan => _ngayBan;
   DienThoai get dienThoai => _dienThoai;
