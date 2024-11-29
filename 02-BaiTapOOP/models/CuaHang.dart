@@ -7,7 +7,7 @@ class Cuahang {
   List<DienThoai> _dsDienthoai = [];
   List<HoaDon> _dsHoaDon = [];
 
-  // Constructor
+  //Constructor
   Cuahang(this._tenCuaHang, this._diaChi);
 
   // Getter
