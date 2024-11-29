@@ -3,7 +3,7 @@ import '../models/DienThoai.dart';
 import '../models/HoaDon.dart';
 
 void main() {
-  // Tạo cửa hàng
+  //Tạo cửa hàng
   Cuahang cuaHang = Cuahang("TniCiu", "Hồ Chí Minh");
   //Kiểm tra validation
   try {
